@@ -1,2 +1,2 @@
 # Spring-MVC
- i have made a Product management application using Spring MVC .
+ Product management application using Spring MVC .
