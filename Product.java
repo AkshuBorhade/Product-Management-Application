@@ -26,6 +26,6 @@ public class Product {
 	private Double price;
 	
 	@NotNull(message = "Quantity is mandatory")
-	@Positive(message= "Quantity should be positive number")
+	@Positive(message= "Quantity should be positive")
 	private Integer qty;
 }
